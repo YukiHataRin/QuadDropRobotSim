@@ -1,0 +1,7 @@
+[project]
+name = "quaddrop-robot-sim"
+version = "0.1.0"
+description = "QuadDrop 機器狗端模擬器與 API 參考實作"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
